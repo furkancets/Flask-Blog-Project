@@ -1,3 +1,4 @@
 .env
 Pipfile.lock
 .flaskenv
+instance/site.db
